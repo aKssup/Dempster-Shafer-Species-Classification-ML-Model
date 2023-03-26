@@ -1,5 +1,7 @@
 # Dempster-Shafer-Species-Classification-ML-Model
 
+Credit to http://bennycheung.github.io/dempster-shafer-theory-for-classification
+
 What do the libraries do? 
 numpy: Can organize data into arrays, sets, etc.
 pandas: Lets you run a multitude of calculations on your dataset. It is the best for dataset manipulation.
